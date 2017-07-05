@@ -1,0 +1,8 @@
+<resources>
+    <!--Toolbar-->
+    <dimen name="toolbar_height">64dp</dimen>
+
+    <!--All-->
+    <dimen name="screen_left_right_margin">24dp</dimen>
+    <dimen name="default_image_width">370dp</dimen>
+</resources>

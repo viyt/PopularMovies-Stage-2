@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cf.javadev.popularmovies.ui.ResizableImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/poster_image"
+    android:foreground="?selectableItemBackground"
+    android:clickable="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:adjustViewBounds="true"
+    android:contentDescription="@string/description_poster" />
+

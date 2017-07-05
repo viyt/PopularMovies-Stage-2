@@ -1,0 +1,35 @@
+<resources>
+    <!--Toolbar-->
+    <dimen name="toolbar_height">56dp</dimen>
+
+    <!--All-->
+    <dimen name="screen_left_right_margin">16dp</dimen>
+    <dimen name="space_between_content_areas">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_size">260dp</dimen>
+
+    <!--MovieFragment-->
+    <dimen name="default_image_width">175dp</dimen>
+
+    <!--Detail Fragment-->
+    <dimen name="vertical_margin">28dp</dimen>
+    <dimen name="line_thickness">1dp</dimen>
+
+    <!--Text Sizes-->
+    <dimen name="header_two_text_size">28sp</dimen>
+    <dimen name="header_three_text_size">22sp</dimen>
+    <dimen name="content_text_size">16sp</dimen>
+
+    <!--Items-->
+    <dimen name="logo_width_mob_screen">120dp</dimen>
+    <dimen name="logo_height_mob_screen">179dp</dimen>
+
+    <!--GridView-->
+    <dimen name="thumbnail_width">200dp</dimen>
+    <dimen name="thumbnail_height">110dp</dimen>
+    <dimen name="horizontal_item_padding">4dp</dimen>
+    <dimen name="expand_title_end">64dp</dimen>
+    <dimen name="expand_title_start">48dp</dimen>
+    <dimen name="vertical_padding">16dp</dimen>
+    <dimen name="zero_value">0dp</dimen>
+</resources>
